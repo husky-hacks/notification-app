@@ -33,7 +33,7 @@ e.g. ```cd apps/```  ```cd notification-app/```
 6. Scan the QR Code from your terminal using your mobile device. (Logging into Expo Go should not be necessary, but if you have issues, you can try logging in.)
 
 
-## Playing with the Code
+## Editing the Code
 Once you have the app running through Expo Go on your phone, you can follow the below steps to make edits. (This will only change the app on your end, and will not alter the actual code.)
 
 1. Open the code on Visual Studio Code.   
