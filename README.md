@@ -2,16 +2,19 @@
 
 ## Installation
 
-1. Install dependencies:
+1. Install node.js:
+https://nodejs.org/en/download
+
+2. Install dependencies:
 
    ```bash
-   npm install
+   npm ci
    ```
 
-2. Start the app:
+3. Start the app:
 
    ```bash
-   npx expo start
+   npm run start
    ```
 
 This will open the Expo Developer Tools in your browser. You can run the app on a physical device using Expo Go or on an emulator/simulator.
